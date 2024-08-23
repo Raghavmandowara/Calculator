@@ -1,1 +1,1 @@
-# Caclulator
+# A simple command-line calculator written in HTML,CSS,JS that performs basic arithmetic operations like addition, subtraction, multiplication, and division. Ideal for beginners to understand fundamental programming concepts.
